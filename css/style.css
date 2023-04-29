@@ -1,0 +1,22 @@
+body{
+    background-color: lightgray;
+}
+
+#allMenuItems{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: space-between;
+    text-align: center;
+}
+
+.orderSection{
+    background-color: royalblue;
+    color: white;
+    text-align: center;
+    padding: 10px 30px;
+    margin-top: 10px;
+
+
+}
